@@ -1,0 +1,10 @@
+.RegisterAccount-Card {
+  width: 50%;
+  margin: auto;
+  border: 5px  #2e343f solid;
+}
+
+.RegisterAccount-Content {
+  height: 100%;
+  display: flex;
+}

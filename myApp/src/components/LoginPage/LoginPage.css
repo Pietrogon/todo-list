@@ -1,0 +1,10 @@
+.LoginPage-Card {
+  width: 50%;
+  margin: auto;
+  border: 5px  #2e343f solid;
+}
+
+.LoginPage-Content {
+  height: 100%;
+  display: flex;
+}
