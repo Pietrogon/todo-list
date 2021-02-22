@@ -1,10 +1,12 @@
-.RegisterAccount-Card {
-  width: 50%;
+.registerAccount-card {
+  width: 500px;
   margin: auto;
-  border: 5px  #2e343f solid;
 }
 
-.RegisterAccount-Content {
+.registerAccount-content {
   height: 100%;
   display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--ion-color-primary);
 }

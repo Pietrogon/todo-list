@@ -23,15 +23,16 @@ import './theme/variables.css';
 
 const LoginPage = lazy(() => import('./components/LoginPage/LoginPage'));
 const RegisterAccount = lazy(() => import('./components/RegisterAccount/RegisterAccount'));
+const Home = lazy(() => import('./components/Home/Home'));
 
-
-const App: React.FC = () => (
+const App = () => (
   <IonApp>
     <Router>
     <Suspense fallback={<div>Loading...</div>}>
       <Switch>
         <Route exact path="/" component={LoginPage}/>
         <Route path="/RegisterAccount" component={RegisterAccount}/>
+        <Route path="/Home" component={Home}/>
       </Switch>
     </Suspense>
   </Router>
