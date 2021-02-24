@@ -9,8 +9,8 @@
  <a href="#Tecnologias">Tecnologias</a> •
  <a href="#Features">Features</a> • 
  <a href="#Pré-requisitos">Pré-requisitos</a> • 
- <a href="#Rodando o Back End">Rodando o Back End</a> • 
- <a href="#Rodando o Front End">Rodando o Front End</a> • 
+ <a href="#-rodando-o-back-end-servidor">Rodando o Back End</a> • 
+ <a href="#-rodando-o-front-end-aplicação">Rodando o Front End</a> • 
  <a href="#Autores">Autores</a>
 </p>
 
