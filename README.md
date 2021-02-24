@@ -103,12 +103,20 @@ Pietro Gonçalves
 [![Gmail Badge](https://img.shields.io/badge/-pietrogon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pietrogon@gmail.com)](mailto:pietrogon@gmail.com)
 
 <a href="https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU">
+<img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEoAQjPfuC4PA/profile-displayphoto-shrink_200_200/0/1602284719328?e=1619654400&v=beta&t=vFvlPgpeJMtJytGnNuNBfPc1roogY197ZgKrB0Dh9Tw" width="100px;" alt=""/>
+</a>
+</br>
+<a href="https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU">
 Guilherme Sampaio
 </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU)](https://www.linkedin.com/in/guilherme-sampaio-4946a01a6/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADAn1LABvmw2dWfN4Q51WAqXrKE4nrouSeU) 
 [![Gmail Badge](https://img.shields.io/badge/-kaisergui258@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaisergui258@gmail.com)](mailto:kaisergui258@gmail.com)
 
+<a href="https://www.linkedin.com/in/victor-augusto-campos-bortolotto-5517b8187/">
+<img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQEN6IEf5y2umw/profile-displayphoto-shrink_200_200/0/1560595290965?e=1619654400&v=beta&t=AJDaCyExspo9o_4RCnjXWOr0i7YGMn9_ePyEK4av40M" width="100px;" alt=""/>
+</a>
+</br>
 <a href="https://www.linkedin.com/in/victor-augusto-campos-bortolotto-5517b8187/">
 Victor Augusto Campos Bortolotto
 </a>
