@@ -80,6 +80,11 @@
   filter: brightness(0.9);
 }
 
+.container button:last-child{
+  background: none;
+  text-decoration: underline;
+}
+
 .container div img {
   width: 80%;
   height: 80%;
