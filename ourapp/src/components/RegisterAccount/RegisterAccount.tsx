@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import { InitalPageContext } from '../contexts/InitialPageContext';
+import { InitalPageContext } from '../../contexts/InitialPageContext';
 
 export function RegisterAccount() {
   const { handleInput , createUser } = useContext(InitalPageContext)

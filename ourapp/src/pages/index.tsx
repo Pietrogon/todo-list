@@ -1,6 +1,6 @@
-import styles from '../styles/pages/Index.module.css';
+import styles from './Index.module.css';
 
-import { InitialPage } from '../components/InitialPage'
+import { InitialPage } from '../components/InitialPage/InitialPage'
 import { InitialPageProvider } from '../contexts/InitialPageContext';
 
 export default function Home() {
